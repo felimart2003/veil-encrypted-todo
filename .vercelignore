@@ -1,0 +1,13 @@
+.git
+.next
+dist
+.wrangler
+.veil-private
+.openai
+build
+examples
+db
+drizzle
+tests
+work
+outputs

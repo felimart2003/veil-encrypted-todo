@@ -4,9 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "VEIL — Public list. Private meaning.",
   description: "A personal to-do list in plain sight. Browser-side encryption keeps the meaning behind a secret key.",
-  other: {
-    "codex-preview": "development",
-  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
