@@ -2,7 +2,7 @@
 
 A publicly visible personal to-do list whose meaning stays behind a secret. Anyone can inspect the encrypted list and source code; only someone with the passphrase can decrypt or edit the list.
 
-Live site: https://veil-encrypted-tasks-felim.jolly-stone-6727.chatgpt.site
+Live site: https://veil-encrypted-tasks-felim.fmart3.chatgpt.site
 
 ## Use it
 
@@ -60,3 +60,4 @@ The cryptography test checks round-trip encryption of Unicode task text and stat
 ## License
 
 MIT; see [LICENSE](LICENSE). Vendored starter utilities retain their upstream license notices.
+
